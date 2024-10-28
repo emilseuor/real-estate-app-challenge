@@ -1,6 +1,7 @@
-# Welcome to your Expo app 👋
+# Welcome to the Real Estate Challenge 👋
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+This is an Expo app which takes a list of properties, (I tried initially using a paid api which I thought was free for getting properties for rental and por sale in US)
+When I noticed the api was paid, I used AI to make me a list of 50 properties of example with title, description, address, price, latitude, longitude.
 
 ## Get started
 
